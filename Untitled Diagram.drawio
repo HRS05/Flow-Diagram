@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-23T11:45:15.105Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="8E1_ZkhGhrAUGS0mUzIY" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-23T11:48:40.969Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="b-SUSuxD2PtAlT9B6klg" version="24.0.7" type="github">
   <diagram name="Page-1" id="otC6UkrBuinHcEKVRlpe">
-    <mxGraphModel dx="1060" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,6 +27,15 @@
         </mxCell>
         <mxCell id="kfZi4z5E8rtIzfBgZ30n-6" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="285" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kfZi4z5E8rtIzfBgZ30n-14" value="SDK is cretaed in&lt;div&gt;Java Using GRPC and&lt;/div&gt;&lt;div&gt;Spring - Boot&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="385" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kfZi4z5E8rtIzfBgZ30n-15" value="Key Value Store Engine" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="400" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kfZi4z5E8rtIzfBgZ30n-16" value="Communication between&amp;nbsp;&lt;div&gt;client SDK and Server is&lt;/div&gt;&lt;div&gt;done using GRPC&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="185" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
