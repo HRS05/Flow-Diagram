@@ -1,9 +1,57 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.1.0">
   <diagram name="Page-1" id="DfTBDDeEsSr3qjM7eHCA">
-    <mxGraphModel>
+    <mxGraphModel dx="858" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Dp4VwkjvlYOWWfdXV2gK-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="440" width="60" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Dp4VwkjvlYOWWfdXV2gK-3" value="" style="sketch=0;verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;fillColor=#000000;align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.professional_graphics_desktop;" vertex="1" parent="1">
+          <mxGeometry x="835" y="280" width="70" height="69.96" as="geometry" />
+        </mxCell>
+        <mxCell id="Dp4VwkjvlYOWWfdXV2gK-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dp4VwkjvlYOWWfdXV2gK-6" value="Agency" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="145" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dp4VwkjvlYOWWfdXV2gK-9" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Current AdsShare Tracking platefrom&lt;/span&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&amp;nbsp;manages cliks and postback as&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&amp;nbsp;App and user requirmnet&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="340" width="240" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="Dp4VwkjvlYOWWfdXV2gK-11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Dp4VwkjvlYOWWfdXV2gK-9" target="Dp4VwkjvlYOWWfdXV2gK-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="390" as="sourcePoint" />
+            <mxPoint x="730" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dp4VwkjvlYOWWfdXV2gK-12" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.054;entryY=0.393;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Dp4VwkjvlYOWWfdXV2gK-9" target="Dp4VwkjvlYOWWfdXV2gK-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="578.0799999999999" y="390" as="sourcePoint" />
+            <mxPoint x="770.0000000000001" y="407.30000000000007" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dp4VwkjvlYOWWfdXV2gK-13" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Dp4VwkjvlYOWWfdXV2gK-5" target="Dp4VwkjvlYOWWfdXV2gK-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="460" as="sourcePoint" />
+            <mxPoint x="760" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dp4VwkjvlYOWWfdXV2gK-14" value="platform that have advertiser and&amp;nbsp;&lt;div&gt;allow us to run campaign&lt;/div&gt;&lt;div&gt;(everflow, trackier, adjust, apptrove, appsflyer etc)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="210" y="307.5" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Dp4VwkjvlYOWWfdXV2gK-15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Dp4VwkjvlYOWWfdXV2gK-14" target="Dp4VwkjvlYOWWfdXV2gK-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="380" as="sourcePoint" />
+            <mxPoint x="450" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dp4VwkjvlYOWWfdXV2gK-17" value="this web app will allow agency and network&lt;div&gt;&amp;nbsp;to configure their campaign&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="805" y="183" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Dp4VwkjvlYOWWfdXV2gK-18" value="web Application" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="815" y="340" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
